@@ -7,5 +7,5 @@
 use_nighttime_theme()
 }
 \description{
-Quickly switch to nighttime theme, currently this is Solarized Dark.
+Quickly switch to nighttime theme, currently this is Idle Fingers.
 }
