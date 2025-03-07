@@ -11,10 +11,10 @@ insert_header <- function(){
 
   header <- paste0(
 "#-------------------------------------------------------------------------------
-# Program:
+# Program: script_name.R
 # Author:  Ryan Harrison
 # Date:    ", tdy, "
-# Purpose: Variable and value formats
+# Purpose: What is my purpose?
 #-------------------------------------------------------------------------------"
                    )
   # Insert dashes
