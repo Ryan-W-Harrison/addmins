@@ -1,7 +1,7 @@
 Package: addmins
 Type: Package
 Title: Addins for Mine
-Version: 0.1.0
+Version: 0.2.0
 Author: Mine Cetinkaya-Rundel
 Maintainer: Mine Cetinkaya-Rundel <cetinkaya.mine@gmail.com>
 Description: This package contains addins that are useful for Mine's workflow.
