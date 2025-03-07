@@ -1,3 +1,8 @@
+Name: Insert header
+Description: Inserts header placeholder.
+Binding: insert_header
+Interactive: false
+
 Name: Insert dashes to 80
 Description: Inserts insert dashes until column 80.
 Binding: insert_dashes
